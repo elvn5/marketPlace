@@ -1,0 +1,40 @@
+{
+  "goods": [
+    {
+      "name": "Iphone 11 Pro",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61ers6OzvUL._SX522_.jpg",
+      "price": 1000,
+      "count": 250,
+      "saler": "Эрмек",
+      "telephone": "0700-111-222",
+      "id": 1
+    },
+    {
+      "name": "Iphone XS",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51oXVi%2BZhhL._SL1024_.jpg",
+      "price": 800,
+      "count": 200,
+      "saler": "Эрмек",
+      "telephone": "0700-111-222",
+      "id": 2
+    },
+    {
+      "name": "Iphone 11",
+      "image": "https://d11zer3aoz69xt.cloudfront.net/media/catalog/product/cache/1/image/1200x/9df78eab33525d08d6e5fb8d27136e95/a/p/apple_iphone_xs_64gb_gold_1.jpg",
+      "price": 700,
+      "count": 534,
+      "saler": "Эрмек",
+      "telephone": "0700-111-222",
+      "id": 3
+    },
+    {
+      "name": "Iphone 6 ",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51oXVi%2BZhhL._SL1024_.jpg",
+      "price": "1000",
+      "count": "200",
+      "saler": "Ermek",
+      "telephone": "0700100222",
+      "id": 4
+    }
+  ]
+}
